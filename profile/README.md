@@ -1,27 +1,27 @@
 # SmokeLog 💨📊
 
-Welcome to **SmokeLog**, a web application designed to help users track their smoking habits and gain personalized insights through detailed statistics. Built with Next.js and powered by Firebase, SmokeLog is live and growing with new features in every release.
+Welcome to **SmokeLog**, a web application designed to enable users to track their smoking habits and gain personalized insights through detailed statistical analysis. Developed with Next.js and powered by Firebase, SmokeLog is live and continuously evolving with new features in each release.
 
-## 🌟 We’re Live! 🌟
-We’re thrilled to announce that SmokeLog is officially live at **[www.smokelog.org](https://www.smokelog.org)**! Start logging your sessions, monitor your consumption, and discover trends through your personalized dashboard.
+## 🌟 Now Live! 🌟
+We are pleased to announce the official launch of SmokeLog, accessible at **[www.smokelog.org](https://www.smokelog.org)**. Begin logging your sessions, monitor your consumption patterns, and identify trends through your personalized dashboard.
 
 ## ✨ Key Features
-- **Multi-Category Session Tracking**: Log sessions by **Concentrate**, **Flower**, or **Cart** with detailed inputs for strain, texture, and amount.
-- **Product-Specific Stats**: Get breakdowns for each product type—view daily averages, top strains, and total consumption per category.
-- **Inventory Management**: Track active and finished containers with categorized views and real-time tracking of product usage and spending.
-- **Leaderboards**: See how you rank across usage metrics in each category.
-- **User Profiles**: Set your display name and manage your account securely.
-- **Responsive Design**: Enjoy a smooth experience across desktop and mobile.
+- **Multi-Category Session Logging**: Record sessions for **Concentrate**, **Flower**, or **Cart** with detailed input fields for strain, texture, and quantity.
+- **Product-Specific Analytics**: Obtain detailed breakdowns for each product type, including daily averages, top strains, and total consumption per category.
+- **Inventory Management**: Monitor active and finished containers with categorized views and real-time tracking of product usage and expenditure.
+- **Leaderboards**: Compare your usage metrics across different categories.
+- **User Profiles**: Personalize your display name and securely manage your account.
+- **Responsive Design**: Ensure a seamless user experience across desktop and mobile platforms.
 
-## 🚧 What’s Next? 🚧
-While SmokeLog is feature-rich, we're always improving. Current priorities include:
-- Achievement tracking and personalized badges.
-- Performance tuning and faster data loads.
-- Visual data enhancements (charts, graphs, and summaries).
-- Discord bot integration for logging and alerts.
+## 🚧 Future Development 🚧
+While SmokeLog offers a comprehensive suite of features, we are committed to ongoing improvement. Current development priorities include:
+- Implementation of achievement tracking and personalized badges.
+- Performance optimization for faster data retrieval.
+- Enhancement of visual data representation (charts, graphs, and summaries).
+- Integration of a Discord bot for logging and notifications.
 
-Have suggestions or ideas? [Open an issue](https://github.com/SmokeLog/SmokeLog-Community/issues) or [join the discussion](https://github.com/SmokeLog/SmokeLog-Community/discussions)!
+For suggestions or ideas, please [open an issue](https://github.com/SmokeLog/SmokeLog-Community/issues) or [join the discussion](https://github.com/SmokeLog/SmokeLog-Community/discussions).
 
 ---
 
-*Built by stoners, for stoners. Smoke Easy.* 🍃
+*Developed for the community. Smoke Easy.* 🍃
