@@ -66,5 +66,7 @@ SmokeLog is built with a focus on:
 MIT License © SmokeLog
 
 
-Developed and maintained by  
-**GarlicRot** — https://github.com/GarlicRot
+<p align="center">
+  <img src="https://github.com/GarlicRot.png?size=40" width="40" height="40" alt="GarlicRot"> </br>
+  <span> Developed & Maintained by <a href="https://github.com/GarlicRot">GarlicRot</a></span>
+</p>
