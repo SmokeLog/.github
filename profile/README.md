@@ -1,27 +1,70 @@
-# SmokeLog 💨📊
+<h1 align="center">
+  <a href="https://smokelog.org">
+    <img src="https://github.com/SmokeLog.png?size=200" width="200" alt="SmokeLog">
+  </a><br>
+  SmokeLog
+</h1>
 
-Welcome to **SmokeLog**, a web application designed to enable users to track their smoking habits and gain personalized insights through detailed statistical analysis. Developed with Next.js and powered by Firebase, SmokeLog is live and continuously evolving with new features in each release.
+<h3 align="center">
+  A personal cannabis usage tracking platform
+</h3>
 
-## 🌟 Now Live! 🌟
-We are pleased to announce the official launch of SmokeLog, accessible at **[www.smokelog.org](https://www.smokelog.org)**. Begin logging your sessions, monitor your consumption patterns, and identify trends through your personalized dashboard.
+<p align="center">
+  <a href="https://smokelog.org">
+    <img src="https://img.shields.io/badge/Website-smokelog.org-2ea44f?style=flat" alt="Website">
+  </a>
+  <a href="https://smokelog.org/discord">
+    <img src="https://img.shields.io/badge/Platform-Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <img src="https://img.shields.io/badge/Framework-Next.js-black?style=flat&logo=next.js" alt="Next.js">
+  <img src="https://img.shields.io/badge/%F0%9F%A7%84-Approved%20%E2%9C%94%EF%B8%8F-blue?style=flat" alt="🧄 Approved ✔️">
+</p>
 
-## ✨ Key Features
-- **Multi-Category Session Logging**: Record sessions for **Concentrate**, **Flower**, or **Cart** with detailed input fields for strain, texture, and quantity.
-- **Product-Specific Analytics**: Obtain detailed breakdowns for each product type, including daily averages, top strains, and total consumption per category.
-- **Inventory Management**: Monitor active and finished containers with categorized views and real-time tracking of product usage and expenditure.
-- **Leaderboards**: Compare your usage metrics across different categories.
-- **User Profiles**: Personalize your display name and securely manage your account.
-- **Responsive Design**: Ensure a seamless user experience across desktop and mobile platforms.
 
-## 🚧 Future Development 🚧
-While SmokeLog offers a comprehensive suite of features, we are committed to ongoing improvement. Current development priorities include:
-- Implementation of achievement tracking and personalized badges.
-- Performance optimization for faster data retrieval.
-- Enhancement of visual data representation (charts, graphs, and summaries).
-- Integration of a Discord bot for logging and notifications.
+## Overview
 
-For suggestions or ideas, please [open an issue](https://github.com/SmokeLog/SmokeLog-Community/issues) or [join the discussion](https://github.com/SmokeLog/SmokeLog-Community/discussions).
+**SmokeLog** is a web application designed to help users track cannabis usage
+and gain meaningful insights through long-term statistics and analysis.
 
----
+Users can log sessions across **Concentrates**, **Flower**, and **Carts**, view
+category-specific breakdowns, and explore trends over time through a clean,
+responsive dashboard.
 
-*Developed for the community. Smoke Easy.* 🍃
+Live platform: https://www.smokelog.org
+
+
+## Core Features
+
+- Multi-category session logging (Concentrates, Flower, Carts)
+- Detailed usage statistics and averages
+- Category-specific analytics and summaries
+- Inventory tracking for active and finished products
+- Public leaderboards by category
+- Fully responsive design (desktop & mobile)
+
+
+## Platform Philosophy
+
+SmokeLog is built with a focus on:
+
+- Privacy-first data handling
+- Long-term accuracy and consistency
+- Clear, user-owned statistics
+- Incremental feature growth without unnecessary complexity
+
+
+## Community & Support
+
+- **Website:** https://www.smokelog.org  
+- **Discord:** https://smokelog.org/discord  
+- **Community Repo:** https://github.com/SmokeLog/SmokeLog-Community  
+- **Issues & Feedback:** https://github.com/SmokeLog/SmokeLog-Community/issues  
+
+
+## License
+
+MIT License © SmokeLog
+
+
+Developed and maintained by  
+**GarlicRot** — https://github.com/GarlicRot
